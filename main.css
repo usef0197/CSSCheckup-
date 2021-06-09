@@ -1,0 +1,37 @@
+.css-classes li{
+    color:rgb(0, 0, 0);
+    width: 400px;
+    height: 40px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+#number-one{
+    color: rgb(177, 0, 0);
+    height: 40px;
+    border: 5px soild pink;
+    margin: 5px 10px 20px 0px;
+    padding: 10px 10px 10px 10px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+.cycling{
+    background-image: url("../assets/cycling.png");
+    height: 410px;
+    width: 620px;
+    }
+
+    h1{
+        text-align: center;
+    }
+    .border-style li{
+        margin: 5px;
+    }
+
+    
+.border-color li:nth-child(3){
+    margin: 5px;
+    border-style: soild;
+    border-color: rgb(100,0,100);
+}
