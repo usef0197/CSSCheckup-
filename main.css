@@ -17,13 +17,13 @@
 }
 
 .cycling{
-    background-image: url("../assets/cycling.png");
+    background-image: url("./assets/cycling.png");
     height: 410px;
     width: 620px;
     }
 
     h1{
-        text-align: center;
+        text-align: left;
     }
     .border-style li{
         margin: 5px;
